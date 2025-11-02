@@ -6,8 +6,8 @@
 
 # 의료 영상 처리 필터 가이드
 
-|No|필터이름|적용분야|
-|:---:|:---:|:---:|
+|No|필터이름|적용분야|기능|
+|:---:|:---:|:---:|:---:|
 | 1 | [Sobel Filter](#sobel-filter) | 엣지 검출 (해부학적 구조 분석) | 엣지 및 경계 검출 필터 |
 | 2 | [Gaussian Filter](#gaussian-노이즈-제거-mrict-전처리) | 가우시안 노이즈 제거 (MRI/CT 전처리) | 노이즈 제거 필터 |
 | 3 | [Median Filter](#median-salt-and-pepper-노이즈-제거-x-ray) | Salt-and-pepper 노이즈 제거 (X-ray) | 노이즈 제거 필터 |
