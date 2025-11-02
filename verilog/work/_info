@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Administrator\Desktop\sobel\verilog
+vsobel_edge_frame
+Z1 IGPZQzWk4GBhl[gV5V<G[e2
+Z2 Vk_Mld?aM3PY@LLz6_O@H43
+Z3 dC:\Users\Administrator\Desktop\sobel\verilog
+Z4 w1762052597
+Z5 8C:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_frame.v
+Z6 FC:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_frame.v
+L0 5
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 k@4IaJEm9R]i@NN;H2aY83
+!s85 0
+Z10 !s108 1762059877.352000
+Z11 !s107 C:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_frame.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_frame.v|
+!s101 -O0
+vsobel_edge_tb
+!i10b 1
+!s100 c:L7F4EEPXfbT<<2;4_n<3
+I08JdA]WZRDA2oRRP7nUE?2
+VXZQE19YVU85]`?8XN7P[m3
+R3
+w1762053200
+8C:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_tb.v
+FC:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_tb.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1762059877.427000
+!s107 C:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_tb.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Administrator/Desktop/sobel/verilog/sobel_edge_tb.v|
+!s101 -O0
+R8
