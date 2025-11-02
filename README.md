@@ -5,6 +5,7 @@
 
 
 ## 1. C : Visual Studio
+### BMP 파일 mem 파일 변환(C)
   * 다운로드 후 압축 해지 후 \sobel\sobel\sobel.sln 를 실행
   * Ctrl + F5
 
@@ -16,18 +17,18 @@
 <br>
 
 ## 2. Python
-   
+### BMP 파일 mem 파일 변환(Python)
+
 ```   
 cd sobel
 ```
-
-<img width="616" height="446" alt="008" src="https://github.com/user-attachments/assets/31263656-30de-421e-b06d-93aafc44aa21" />
-
 ```
 python conv-bmp.py
 ```
 
+<img width="616" height="446" alt="008" src="https://github.com/user-attachments/assets/31263656-30de-421e-b06d-93aafc44aa21" />
 
+### C, Python mem 파일 및 변환 결과 비교
 ```
 python compfile.py
 ```
