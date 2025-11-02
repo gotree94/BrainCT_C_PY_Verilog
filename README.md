@@ -28,7 +28,7 @@ python conv-bmp.py
 
 <img width="616" height="446" alt="008" src="https://github.com/user-attachments/assets/31263656-30de-421e-b06d-93aafc44aa21" />
 
-### C, Python mem 파일 및 변환 결과 비교
+### mem 파일 변환, sobel 필터 적용 결과 비교 (C/Python)
 ```
 python compfile.py
 ```
