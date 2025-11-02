@@ -12,13 +12,16 @@
 cd sobel
 ```
 
-```
-python compfile.py
-```
 
 ```
 python conv-bmp.py
 ```
+
+
+```
+python compfile.py
+```
+
 
 ```
 python compare_gui.py
