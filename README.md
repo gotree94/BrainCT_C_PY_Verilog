@@ -8,7 +8,7 @@
 |No|필터이름|적용분야|
 |:---:|:---:|:---:|
 | 1 | [Sobel](#Sobel-Filter) |  엣지 검출 (해부학적 구조 분석) | 
-| 2 | [Gaussian](#Gaussian:-노이즈-제거-(MRI/CT-전처리) |  노이즈 제거 (MRI/CT 전처리) | 
+| 2 | [Gaussian](#Gaussian:-노이즈-제거-(MRI/CT-전처리)) |  노이즈 제거 (MRI/CT 전처리) | 
 | 3 | [Median]() |  Salt-and-pepper 노이즈 제거 (X-ray) | 
 | 4 | [Laplacian]() |  경계 검출 (종양 분할) | 
 | 5 | [Prewitt]() |  엣지 검출 (장기 경계) | 
