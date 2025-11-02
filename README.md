@@ -17,6 +17,9 @@
 | Morphological Gradient |  경계 강조 (세포 분할) | 
 | Bilateral | 엣지 보존 스무딩 (조직 경계) | 
 
+---
+# Sobel Filter
+
 <img width="480" height="169" alt="001" src="https://github.com/user-attachments/assets/98223320-56bb-499a-bf3c-ca43cab3c99f" />
 <br>
 
