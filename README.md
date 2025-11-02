@@ -41,13 +41,14 @@ python compfile.py
 
 
 <img width="960" height="529" alt="009" src="https://github.com/user-attachments/assets/11900a1f-b7b4-434c-8997-d7bdd1a65cef" />
+<br>
 
 
+   * 다이얼로그에서 "아니로(N)" 선책
 <img width="259" height="147" alt="010" src="https://github.com/user-attachments/assets/a11639d5-7202-4c19-8162-fdcec6cfa784" />
 
-
 <img width="551" height="529" alt="011" src="https://github.com/user-attachments/assets/727489b4-0e25-49bb-90f6-b34079bf0308" />
-
+<br>
 
 ---
 
