@@ -9,7 +9,7 @@
 |No|필터이름|적용분야|기능|결과|
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | [Bilateral Filter](#bilateral-엣지-보존-스무딩-조직-경계) | 엣지 보존 스무딩 (조직 경계) | 노이즈 제거 필터 | |
-| 2 | [Emboss Filter](#emboss-3d-효과-조직-질감-분석) | 3D 효과 (조직 질감 분석) | 이미지 향상 필터 |  |
+| 2 | [Emboss Filter](#emboss-3d-효과-조직-질감-분석) | 3D 효과 (조직 질감 분석) | 이미지 향상 필터 | <img src="output_emboss-py.jpg" width="200">  |
 | 3 | [Gaussian Filter](#gaussian-노이즈-제거-mrict-전처리) | 가우시안 노이즈 제거 (MRI/CT 전처리) | 노이즈 제거 필터 | |
 | 4 | [High-pass Filter](#high-pass-세부-정보-강조-미세-구조) | 세부 정보 강조 (미세 구조) | 이미지 향상 필터 |  |
 | 5 | [Laplacian Filter](#laplacian-경계-검출-종양-분할) | 경계 검출 (종양 분할) | 엣지 및 경계 검출 필터 | |
