@@ -22,6 +22,8 @@
 | 12 | [Morphological Gradient](#morphological-gradient-경계-강조-세포-분할) | 경계 강조 (세포 분할) | 엣지 및 경계 검출 필터 | |
 | 13 | [Bilateral Filter](#bilateral-엣지-보존-스무딩-조직-경계) | 엣지 보존 스무딩 (조직 경계) | 노이즈 제거 필터 | |
 
+#define _CRT_SECURE_NO_WARNINGS
+
 ---
 
 # Sobel Filter
