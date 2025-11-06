@@ -181,33 +181,6 @@ python compare_gui.py
 
 ```
 
----
-# Gaussian: 노이즈 제거 (MRI/CT 전처리)
----
-# Median: Salt-and-pepper 노이즈 제거 (X-ray)
----
-# Laplacian: 경계 검출 (종양 분할)
----
-# Prewitt: 엣지 검출 (장기 경계)
----
-# Roberts: 빠른 엣지 검출 (실시간 처리)
----
-# Unsharp Mask: 이미지 선명화 (해상도 향상)
----
-# Emboss: 3D 효과 (조직 질감 분석)
----
-# High-pass: 세부 정보 강조 (미세 구조)
----
-# Motion Blur: 움직임 효과 (아티팩트 연구)
----
-# LoG: Laplacian of Gaussian (혈관 검출)
----
-# Morphological Gradient: 경계 강조 (세포 분할)
----
-# Bilateral: 엣지 보존 스무딩 (조직 경계)
----
-
-
 
 
 
