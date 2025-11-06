@@ -8,7 +8,7 @@
 
 |No|필터이름|적용분야|기능|결과|
 |:---:|:---:|:---:|:---:|:---:|
-| 1 | [Sobel Filter](#sobel-filter) | 엣지 검출 (해부학적 구조 분석) | 엣지 및 경계 검출 필터 | <img src="output_edge-py.jpg" width="300"> |
+| 1 | [Sobel Filter](#sobel-filter) | 엣지 검출 (해부학적 구조 분석) | 엣지 및 경계 검출 필터 | <img src="output_edge-py.jpg" width="200"> |
 | 2 | [Gaussian Filter](#gaussian-노이즈-제거-mrict-전처리) | 가우시안 노이즈 제거 (MRI/CT 전처리) | 노이즈 제거 필터 | |
 | 3 | [Median Filter](#median-salt-and-pepper-노이즈-제거-x-ray) | Salt-and-pepper 노이즈 제거 (X-ray) | 노이즈 제거 필터 | |
 | 4 | [Laplacian Filter](#laplacian-경계-검출-종양-분할) | 경계 검출 (종양 분할) | 엣지 및 경계 검출 필터 | |
