@@ -16,11 +16,11 @@
 | 6 | [LoG Filter](#log-laplacian-of-gaussian-혈관-검출) | Laplacian of Gaussian (혈관 검출) | 엣지 및 경계 검출 필터 | |
 | 7 | [Median Filter](#median-salt-and-pepper-노이즈-제거-x-ray) | Salt-and-pepper 노이즈 제거 (X-ray) | 노이즈 제거 필터 | |
 | 8 | [Morphological Gradient](#morphological-gradient-경계-강조-세포-분할) | 경계 강조 (세포 분할) | 엣지 및 경계 검출 필터 | |
-| 9 | [Motion Blur](#motion-blur-움직임-효과-아티팩트-연구) | 움직임 효과 (아티팩트 연구) | 특수 효과 필터 |  |
-| 10 | [Prewitt Filter](#prewitt-엣지-검출-장기-경계) | 엣지 검출 (장기 경계) | 엣지 및 경계 검출 필터 | |
-| 11 | [Roberts Filter](#roberts-빠른-엣지-검출-실시간-처리) | 빠른 엣지 검출 (실시간 처리) | 엣지 및 경계 검출 필터 | |
+| 9 | [Motion Blur](#motion-blur-움직임-효과-아티팩트-연구) | 움직임 효과 (아티팩트 연구) | 특수 효과 필터 | <img src="output_motionblur-py.jpg" width="200">  |
+| 10 | [Prewitt Filter](#prewitt-엣지-검출-장기-경계) | 엣지 검출 (장기 경계) | 엣지 및 경계 검출 필터 | <img src="output_prewitt-py.jpg" width="200"> |
+| 11 | [Roberts Filter](#roberts-빠른-엣지-검출-실시간-처리) | 빠른 엣지 검출 (실시간 처리) | 엣지 및 경계 검출 필터 | <img src="output_roberts-py.jpg" width="200"> |
 | 12 | [Sobel Filter](#sobel-filter) | 엣지 검출 (해부학적 구조 분석) | 엣지 및 경계 검출 필터 | <img src="output_edge-py.jpg" width="200"> |
-| 13 | [Unsharp Mask](#unsharp-mask-이미지-선명화-해상도-향상) | 이미지 선명화 (해상도 향상) | 이미지 향상 필터 |  |
+| 13 | [Unsharp Mask](#unsharp-mask-이미지-선명화-해상도-향상) | 이미지 선명화 (해상도 향상) | 이미지 향상 필터 | <img src="output_unsharp-py.jpg" width="200"> |
 
 #define _CRT_SECURE_NO_WARNINGS
 
