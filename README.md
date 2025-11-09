@@ -10,11 +10,11 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | [Bilateral Filter](#bilateral-엣지-보존-스무딩-조직-경계) | 엣지 보존 스무딩 (조직 경계) | 노이즈 제거 필터 | |
 | 2 | [Emboss Filter](#emboss-3d-효과-조직-질감-분석) | 3D 효과 (조직 질감 분석) | 이미지 향상 필터 | <img src="output_emboss-py.jpg" width="200">  |
-| 3 | [Gaussian Filter](#gaussian-노이즈-제거-mrict-전처리) | 가우시안 노이즈 제거 (MRI/CT 전처리) | 노이즈 제거 필터 | |
-| 4 | [High-pass Filter](#high-pass-세부-정보-강조-미세-구조) | 세부 정보 강조 (미세 구조) | 이미지 향상 필터 |  |
-| 5 | [Laplacian Filter](#laplacian-경계-검출-종양-분할) | 경계 검출 (종양 분할) | 엣지 및 경계 검출 필터 | |
-| 6 | [LoG Filter](#log-laplacian-of-gaussian-혈관-검출) | Laplacian of Gaussian (혈관 검출) | 엣지 및 경계 검출 필터 | |
-| 7 | [Median Filter](#median-salt-and-pepper-노이즈-제거-x-ray) | Salt-and-pepper 노이즈 제거 (X-ray) | 노이즈 제거 필터 | |
+| 3 | [Gaussian Filter](#gaussian-노이즈-제거-mrict-전처리) | 가우시안 노이즈 제거 (MRI/CT 전처리) | 노이즈 제거 필터 |<img src="output_gaussian-py.jpg" width="200">  |
+| 4 | [High-pass Filter](#high-pass-세부-정보-강조-미세-구조) | 세부 정보 강조 (미세 구조) | 이미지 향상 필터 | <img src="output_highpass-py.jpg" width="200">   |
+| 5 | [Laplacian Filter](#laplacian-경계-검출-종양-분할) | 경계 검출 (종양 분할) | 엣지 및 경계 검출 필터 | <img src="output_laplacian-py.jpg" width="200">  |
+| 6 | [LoG Filter](#log-laplacian-of-gaussian-혈관-검출) | Laplacian of Gaussian (혈관 검출) | 엣지 및 경계 검출 필터 | <img src="output_log-py.jpg" width="200">  |
+| 7 | [Median Filter](#median-salt-and-pepper-노이즈-제거-x-ray) | Salt-and-pepper 노이즈 제거 (X-ray) | 노이즈 제거 필터 | <img src="output_median-py.jpg" width="200">  |
 | 8 | [Morphological Gradient](#morphological-gradient-경계-강조-세포-분할) | 경계 강조 (세포 분할) | 엣지 및 경계 검출 필터 | |
 | 9 | [Motion Blur](#motion-blur-움직임-효과-아티팩트-연구) | 움직임 효과 (아티팩트 연구) | 특수 효과 필터 | <img src="output_motionblur-py.jpg" width="200">  |
 | 10 | [Prewitt Filter](#prewitt-엣지-검출-장기-경계) | 엣지 검출 (장기 경계) | 엣지 및 경계 검출 필터 | <img src="output_prewitt-py.jpg" width="200"> |
@@ -23,6 +23,13 @@
 | 13 | [Unsharp Mask](#unsharp-mask-이미지-선명화-해상도-향상) | 이미지 선명화 (해상도 향상) | 이미지 향상 필터 | <img src="output_unsharp-py.jpg" width="200"> |
 
 #define _CRT_SECURE_NO_WARNINGS
+
+
+
+
+
+
+
 
 ---
 
