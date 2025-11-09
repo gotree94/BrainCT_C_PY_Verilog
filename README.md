@@ -15,7 +15,7 @@
 | 5 | [Laplacian Filter](#laplacian-경계-검출-종양-분할) | 경계 검출 (종양 분할) | 엣지 및 경계 검출 필터 | <img src="output_laplacian-py.jpg" width="200">  |
 | 6 | [LoG Filter](#log-laplacian-of-gaussian-혈관-검출) | Laplacian of Gaussian (혈관 검출) | 엣지 및 경계 검출 필터 | <img src="output_log-py.jpg" width="200">  |
 | 7 | [Median Filter](#median-salt-and-pepper-노이즈-제거-x-ray) | Salt-and-pepper 노이즈 제거 (X-ray) | 노이즈 제거 필터 | <img src="output_median-py.jpg" width="200">  |
-| 8 | [Morphological Gradient](#morphological-gradient-경계-강조-세포-분할) | 경계 강조 (세포 분할) | 엣지 및 경계 검출 필터 | |
+| 8 | [Morphological Gradient](#morphological-gradient-경계-강조-세포-분할) | 경계 강조 (세포 분할) | 엣지 및 경계 검출 필터 | <img src="output_mgrad-py.jpg" width="200"> |
 | 9 | [Motion Blur](#motion-blur-움직임-효과-아티팩트-연구) | 움직임 효과 (아티팩트 연구) | 특수 효과 필터 | <img src="output_motionblur-py.jpg" width="200">  |
 | 10 | [Prewitt Filter](#prewitt-엣지-검출-장기-경계) | 엣지 검출 (장기 경계) | 엣지 및 경계 검출 필터 | <img src="output_prewitt-py.jpg" width="200"> |
 | 11 | [Roberts Filter](#roberts-빠른-엣지-검출-실시간-처리) | 빠른 엣지 검출 (실시간 처리) | 엣지 및 경계 검출 필터 | <img src="output_roberts-py.jpg" width="200"> |
